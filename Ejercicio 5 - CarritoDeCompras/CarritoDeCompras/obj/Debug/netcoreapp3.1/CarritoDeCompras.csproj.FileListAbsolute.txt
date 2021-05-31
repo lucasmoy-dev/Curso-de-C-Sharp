@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.exe
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.deps.json
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.runtimeconfig.json
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.dll
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.pdb
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.Form1.resources
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.dll
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.pdb
+C:\Users\lucas\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.genruntimeconfig.cache

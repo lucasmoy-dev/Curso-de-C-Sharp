@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\bin\Debug\netcoreapp3.1\MayorYMenor.exe
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\bin\Debug\netcoreapp3.1\MayorYMenor.deps.json
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\bin\Debug\netcoreapp3.1\MayorYMenor.runtimeconfig.json
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\bin\Debug\netcoreapp3.1\MayorYMenor.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\bin\Debug\netcoreapp3.1\MayorYMenor.dll
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\bin\Debug\netcoreapp3.1\MayorYMenor.pdb
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.Form1.resources
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.AssemblyInfo.cs
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.dll
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.pdb
+C:\Users\lucas\source\repos\MayorYMenor\MayorYMenor\obj\Debug\netcoreapp3.1\MayorYMenor.genruntimeconfig.cache
